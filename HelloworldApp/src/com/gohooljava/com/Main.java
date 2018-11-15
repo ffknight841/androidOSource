@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         //variables  - little empty buckets
-       //String myName = "Paulo";
+        String myName = "Paulo";
         String lastName = "Dichone";
 
 
@@ -34,6 +34,6 @@ public class Main {
         System.out.println("My char is: " + myChar + " and my bool is " + myBool);
 
 
-	    //System.out.println("Hi my name is " + lastName + " and I am " + myAge + " years old." );
+	    System.out.println("Hi my name is " + lastName + " and I am " + myAge + " years old." );
     }
 }
